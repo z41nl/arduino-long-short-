@@ -8,5 +8,12 @@
     ↓
 exchange api
 ```
+```
+Button1 ---- D2
+             |
+            GND
 
-D2 ----- 버튼 ----- GND
+Button2 ---- D3
+             |
+            GND
+```
