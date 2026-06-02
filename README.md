@@ -1,5 +1,5 @@
 # arduino-long-short-
-
+```
 [Button]
     ↓
 [Arduino]
@@ -7,3 +7,6 @@
 [Python]
     ↓
 exchange api
+```
+
+D2 ----- 버튼 ----- GND
